@@ -1,4 +1,4 @@
-# sparmeter_customer_registration_wizard
+# sparkmeter_customer_registration_wizard
 
 * copy these files into one folder.
 * .env file will store the url and api keys for the site you're handling.
